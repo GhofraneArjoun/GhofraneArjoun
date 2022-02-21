@@ -2,6 +2,9 @@
 - I'm a Software Engineer
 - 🌱 I’m currently Full Stack Developer intern 
 
+Connect with me : 
+   * LinkedIn : https://www.linkedin.com/in/ghofrane-arjoun/
+   * Mail : arjounghofrane55@gmail.com
 
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
