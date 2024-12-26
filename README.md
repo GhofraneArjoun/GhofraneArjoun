@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GhofraneArjoun
-- I'm a Software Engineer
-- 🌱 I’m currently Full Stack Developer intern 
+- I'm a Software Test Engineer
 
 Connect with me : 
    * LinkedIn : https://www.linkedin.com/in/ghofrane-arjoun/
